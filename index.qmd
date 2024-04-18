@@ -1,9 +1,9 @@
 ---
 title: "Homework: Awesomely Bad Graphics"
+execute:
+  error: true
 author: "Your Name"
-format:
-  html:
-    theme: default
+output: html_document
 ---
 
 
